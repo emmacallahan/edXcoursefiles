@@ -1,3 +1,4 @@
+s = input ("Please enter a string:")
 number_of_vowels = 0
 number_of_consonants = 0
 s = 'azcbobobegghakl'
